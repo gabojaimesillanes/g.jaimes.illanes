@@ -8,9 +8,9 @@ nav:
     - 3. HI Profiles Classification using Shapelets and CNN: '3.HI_class.md'
     - 4. 2D Image Modelling and CNN-Classification: '4.HI_class.md'
   - 'B.Galaxy Resonances Modelling and Analysis':
-    - ---: '1.HI_class.md'
+    - ---: '1.HI_class_t.md'
   - 'C.Astronomic Transient Photometry - BVO Project (Phototulis)':
-    - ---: '1.HI_class.md'
+    - ---: '1.HI_class_t.md'
   - About: 'about.md'
 
 
