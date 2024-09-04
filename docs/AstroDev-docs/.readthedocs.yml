@@ -1,0 +1,5 @@
+version: r
+
+mkdocs:
+  configuration: mkdocs.yml
+  
