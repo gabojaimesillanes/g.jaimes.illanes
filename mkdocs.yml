@@ -9,12 +9,13 @@ nav:
     - 4. Visualization of all clasifications made: 4. Vis_HI_Class
     - 5. 2D Image Modelling and CNN-Classification: '5.HI_class.md'
   - 'B.Galaxy Resonances Modelling and Analysis':
-    - ---: '1.HI_class_t.md'
+    - ---: 
   - 'C.Astronomic Transient Photometry - BVO Project (Phototulis)':
-    - ---: '1.HI_class_t.md'
+    - ---: 
   - About: 'about.md'
 
 
 theme: readthedocs
+
 
 
