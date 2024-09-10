@@ -1,4 +1,4 @@
-site_name: G.Jaimes - AstroDev
+site_name: G.Jaimes
 
 nav:
   - Menu: 'index.md'
@@ -8,6 +8,7 @@ nav:
     - 3. HI Profiles Classification using Shapelets and CNN: '3.HI_class.md'
     - 4. Visualization of all classifications vs Physical Parameters: '4.HI_class.md'
     - 5. 2D Image Modelling and CNN-Classification: '5.HI_class.md'
+    - 6. 2D Image Modelling and CNN-Classification: '5.HI_class.md'
   - 'B.Galaxy Resonances Modelling and Analysis':
     - ---: 'about.md'
   - 'C.Astronomic Transient Photometry - BVO Project (Phototulis)':
