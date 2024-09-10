@@ -9,10 +9,10 @@ nav:
     - 4. Visualization of all classifications vs Physical Parameters: '4.HI_class.md'
     - 5. 2D Image Modelling and CNN-Classification: '5.HI_class.md'
     #- 6. 2D Image Modelling and CNN-Classification: '4.HI_class.md'
-  - 'B.Galaxy Resonances Modelling and Analysis':
+  - 'B.Section':
   #- 'B.Galaxy Resonances Modelling and Analysis':
     - ---: 'about.md'
-  - 'C.Astronomic Transient Photometry - BVO Project (Phototulis)':
+  - 'C.Section':
   #  - 'C.Astronomic Transient Photometry - BVO Project (Phototulis)':
     - ---: 'about.md'
   - About: 'about.md'
