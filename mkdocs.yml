@@ -2,12 +2,13 @@ site_name: G.Jaimes
 
 nav:
   - Menu: 'index.md'
-  - 'A. HI Classification - CNN and Machine Learning':
-    - 1. Data Preprocessing: '1.HI_class.md'
-    - 2. Profile Fitting using Busyfit: '2.HI_class.md'
-    - 3. HI Profiles Classification using Shapelets and CNN: '3.HI_class.md'
-    - 4. Visualization of all classifications vs Physical Parameters: '4.HI_class.md'
-    - 5. 2D Image Modelling and CNN-Classification: '5.HI_class.md'
+  - A. HI Classification - CNN and Machine Learning:
+      - 1. Data Preprocessing: '1.HI_class.md'
+      - 2. Profile Fitting using Busyfit: '2.HI_class.md'
+      - 3. HI Profiles Classification using Shapelets and CNN: '3.HI_class.md'
+      - 4. Visualization of all classifications vs Physical Parameters: '4.HI_class.md'
+      - 5. 2D Image Modelling and CNN-Classification: '5.HI_class.md'
+      
     #- 6. 2D Image Modelling and CNN-Classification: '4.HI_class.md'
   - 'B.Section':
   #- 'B.Galaxy Resonances Modelling and Analysis':
