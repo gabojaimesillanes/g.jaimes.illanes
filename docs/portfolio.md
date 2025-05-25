@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# Portfolio and Curriculum Vitae
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -67,32 +67,65 @@ Analyzed network coverage, QoS, QoE, and capacity for national infrastructure su
 Héroes del Boquerón School, Bolivia.
 Taught physics, mathematics, and astronomy to high school students.
 
-## PROJECTS MANAGEMENT & VOLUNTEERING
+## ASTROPHYSICAL OBSERVATION EXPERIENCE
+
+Hands-on observational training and research experience using professional-grade telescopes at leading astronomical facilities. These sessions contributed to instrumental calibration, photometric measurements, and variable star observations. Participation involved telescope operation, data acquisition, and preliminary reduction techniques under professional mentorship.
+
+* **IAC80 Telescope** – Teide Observatory, Spain. Training in optical photometry and night operations.
+* **Isaac Newton Telescope (INT)** – Roque de los Muchachos Observatory, La Palma. Observations and data reduction using the IDS spectrograph.
+* **Mercator Telescope** – La Palma. Exposure to high-resolution spectroscopy techniques and precision targeting.
+* **Las Cumbres Observatory (LCO)** – Global Robotic Network. Principal investigator of educational and supernova monitoring campaigns.
+
+## PROJECTS IMPLEMENTED AND RISE OF BUDGET
+
+I have raised a total of **€11,373** in support of research, education, and astronomy outreach projects. All these initiatives were executed voluntarily and at no cost for participants, aiming to benefit students, educators, and the astronomy community. Support has come from international organizations such as the **International Astronomical Union (IAU)**, **Europlanet**, and local schools and universities.
 
 ### 2024-07 – Present
 
-**Coordinator – Bolivian Virtual Observatory (BVO)**
-Las Cumbres Observatory (LCO) – Global Sky Partner.
-Lead for SNII monitoring campaigns and astrophotography educational outreach.
+**Principal Investigator (PI) – Bolivian Virtual Observatory (BVO)**
+**Las Cumbres Observatory (LCO)** – Global Sky Partner
+Leads supernova (SNII) monitoring campaigns and astrophotography educational outreach initiatives.
 Website: [https://bolivianvirtualobservatory.readthedocs.io/en/latest/](https://bolivianvirtualobservatory.readthedocs.io/en/latest/)
+
+* **Rise:** 15 hours of robotic telescope time, valued at **\$3750 USD**.
 
 ### 2019-06 – Present
 
 **NAEC Bolivia – National Astronomy Education Coordinator**
-International Astronomical Union (IAU), OAE/FESA.
-Facilitates astronomy education projects nationally.
+**International Astronomical Union (IAU), OAE/FESA**
+Coordinates astronomy education programs and outreach efforts throughout Bolivia.
 
 ### 2021-06
 
 **Lead – Astro3DBol Project**
-Office of Astronomy for Development (OAD), IAU.
-Developed 3D educational kits linking astronomy with Tiwanaku cultural heritage.
+**Office of Astronomy for Development (OAD), IAU**
+Designed and deployed 3D printed educational kits connecting Tiwanaku cultural heritage with modern astronomy.
 Website: [https://sites.google.com/view/astro3dbol](https://sites.google.com/view/astro3dbol)
+
+* **Rise:** Approved proposal raised **€3360** in funding.
+
+### 2021-10
+
+**Instrumentation Coordinator – Bolivian San Agustín Remote Observatory**
+An initiative by **Fundación Educacional San Agustín (FESA)** supported by **Europlanet Public Engagement Funding Scheme**. The observatory seeks to foster sustainable collaboration, inclusive education, and innovative research. It currently supports high school astronomy education and outreach in Cochabamba.
+Article: [Europlanet Magazine, Issue 2](https://www.europlanet.org/europlanet-magazine/issue2/the-bolivian-san-agustin-remote-observatory/)
+
+* **Rise:** Approved proposal raised **€3715** in funding.
 
 ### 2021-03
 
-**Leader – Bolivian Delegation**
-International Olympiad on Astronomy and Astrophysics (IOAA), OLAA & OCEPB.
+**Leader – Bolivian Delegation to the IOAA**
+**International Olympiad on Astronomy and Astrophysics (IOAA)**, coordinated with OLAA & OCEPB.
+
+* **Rise:** Secured **local academic and institutional support** for implementation via Fundación FESA.
+
+### 2019-08
+
+**Open Astronomy Schools – AstroEdu Cochabamba**
+Organized teacher training in astronomy as part of the global Open Astronomy Schools program.
+Website: [https://open-astronomy-schools.org/2019/08/astroedu-brings-astronomy-to-bolivian-teachers/](https://open-astronomy-schools.org/2019/08/astroedu-brings-astronomy-to-bolivian-teachers/)
+
+* **Rise:** Approved proposal raised **€500** in funding.
 
 ## UNIVERSITY DEGREES
 
