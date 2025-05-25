@@ -69,16 +69,16 @@ Taught physics, mathematics, and astronomy to high school students.
 
 ## ASTROPHYSICAL OBSERVATION EXPERIENCE
 
-Hands-on observational training and research experience using professional-grade telescopes at leading astronomical facilities. These sessions contributed to instrumental calibration, photometric measurements, and variable star observations. Participation involved telescope operation, data acquisition, and preliminary reduction techniques under professional mentorship.
+Hands-on observational training and research experience using professional-grade telescopes at leading astronomical facilities. These sessions contributed to instrumental calibration, photometric measurements, and supernovae observations. Participation involved telescope operation, data acquisition, and preliminary reduction techniques under professional mentorship.
 
-* **IAC80 Telescope** – Teide Observatory, Spain. Training in optical photometry and night operations.
-* **Isaac Newton Telescope (INT)** – Roque de los Muchachos Observatory, La Palma. Observations and data reduction using the IDS spectrograph.
-* **Mercator Telescope** – La Palma. Exposure to high-resolution spectroscopy techniques and precision targeting.
-* **Las Cumbres Observatory (LCO)** – Global Robotic Network. Principal investigator of educational and supernova monitoring campaigns.
+* **[IAC80 Telescope](https://www.iac.es/en/telescopes/iac-80)** – Teide Observatory, Spain. Training in optical photometry and night operations.
+* **[Isaac Newton Telescope (INT)](https://www.ing.iac.es/astronomy/telescopes/int/)** – Roque de los Muchachos Observatory, La Palma. Observations and data reduction using the IDS spectrograph.
+* **[Mercator Telescope](https://www.mercator.iac.es/)** – La Palma. Exposure to high-resolution spectroscopy techniques and precision targeting.
+* **[Las Cumbres Observatory (LCO)](https://lco.global/)** – Global Robotic Network. Principal investigator of educational and supernova monitoring campaigns.
 
 ## PROJECTS IMPLEMENTED AND RISE OF BUDGET
 
-I have raised a total of **€11,373** in support of research, education, and astronomy outreach projects. All these initiatives were executed voluntarily and at no cost for participants, aiming to benefit students, educators, and the astronomy community. Support has come from international organizations such as the **International Astronomical Union (IAU)**, **Europlanet**, and local schools and universities.
+I have raised a total of **€11,373** in support of research, education, and astronomy outreach projects. All these initiatives were executed voluntarily and at no cost for participants, aiming to benefit students, educators, and the astronomy community. Support has come from international organizations such as the **International Astronomical Union (IAU)**, and local schools and universities.
 
 ### 2024-07 – Present
 
@@ -160,40 +160,56 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 * 2012-10 – *Satellite Technology and Perspectives in Bolivia* – Engineers of Bolivia Society
 * 2011-03 – *Computer Hardware Assembly and Maintenance* – ECUABOL Technologies
 
-## PUBLICATIONS & DISSERTATIONS
+## DISSERTATIONS
 
-* **Performance Measurement Methodology in LTE-a Networks...**
-  *Jaimes, G., Siles, G.A.*
-  Revista Investigación y Desarrollo, Vol. 22, Num. 1 (2022).
+* **Performance Measurement Methodology in LTE-a Networks...**  
+  *Jaimes, G., Siles, G.A.*  
+  Revista Investigación y Desarrollo, Vol. 22, Num. 1 (2022).  
   [DOI: 10.23881/idupbo.022.1-11i](https://doi.org/10.23881/idupbo.022.1-11i)
 
-* **Planning and Simulation for Radio Access Networks on Small Cells...**
-  *Jaimes, G.*
-  Revista Investigación y Desarrollo, Vol. 21, Num. 1 (2021).
+* **Planning and Simulation for Radio Access Networks on Small Cells...**  
+  *Jaimes, G.*  
+  Revista Investigación y Desarrollo, Vol. 21, Num. 1 (2021).  
   [DOI: 10.23881/idupbo.021.1-2i](https://doi.org/10.23881/idupbo.021.1-2i)
 
-* **Colloquium: Small Communication Satellites – Background and Applications**
+* **Colloquium: Small Communication Satellites – Background and Applications**  
   UPB – Laboratorio de Radiocomunicaciones (LRC), Cochabamba, 2020.
 
-* **Astronomy Education as The 'Academic Ether' – Bolivia Case Study**
-  2nd Shaw-IAU Workshop, 2020.
+* **Space Tech & Telecom Networks for UN 2030 Agenda – Bolivia Case**  
+  UN/China Forum on Space Tech for SDGs, Changsha, China.
 
-* **Space Tech & Telecom Networks for UN 2030 Agenda – Bolivia Case**
-  UN/China Forum on Space Tech for SDGs, Changsha, 2019.
+* **“The Academic Ether” – Astronomy Education in Bolivia**  
+  Second Shaw–IAU Workshop on Astronomy for Education, OAE.
 
-* **Latin-American Space Workforce and Andean Road Countries** *(Co-author)*
-  IAC 2019.
-  [https://iafastro.directory/iac/paper/id/50349/summary/](https://iafastro.directory/iac/paper/id/50349/summary/)
+* **Astronomy Teaching and Didactics in Latin America**  
+  1st Latin American Meeting on Astronomy Teaching and Didactics (Virtual), Chile.
 
-* **Book: Astronomy and Astrophysics for Scientific Olympiads**
-  *Jaimes, G.*
-  Fundación FESA, 2017.
-  SENAPI Registry:
-  [https://senapi.gob.bo/sites/default/files/senapi/gaceta/gaceta-971-dautor-20170613.pdf](https://senapi.gob.bo/sites/default/files/senapi/gaceta/gaceta-971-dautor-20170613.pdf)
+* **Astronomy in Bolivia – Culture, Research and Education**  
+  Planetarium of Combarranquilla, Colombia.
 
-* **Tutoring: Undergraduate Thesis – 5G Implementation in Bolivia**
-  Student: *Franklin Selim Vidangos*
-  Score: 91/100. UPB (2022).
+* **Equinoxes, Solstices and NAEC Education**  
+  FrontLine Science, Miami, USA.
+
+* **Astrophysics in Action for Science, Education and Projects**  
+  Horizons 2024: SG Bolivia Online Workshop, Bolivia.
+
+* **“DSO Astrophotography”**  
+  *Published in Opinión newspaper (17-08-2022)*.
+
+* **“The Art of Looking at the Sky”**  
+  *Published in Los Tiempos newspaper (19-02-2024)*.
+
+* **Coordination of the “San Agustín” Astronomy Club**  
+  Fundación Educacional FESA.
+
+* **Astronomical Instrumentation & Considerations for Choosing a First Telescope**  
+  ASTROCBA, Bolivia.
+
+* **DSO Astrophotography and Optimization of Astronomical Data Acquisition Using Portable Equipment**  
+  II National Meeting of Amateur Astronomers 2024, Bolivia.
+
+* **Astrophotography with DSLR Cameras**  
+  Online Seminars by Amateur Astronomers of Bolivia.
 
 ## SCHOLARSHIPS
 
