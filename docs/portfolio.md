@@ -1,130 +1,170 @@
-# Professional Experience
+# Curriculum Vitae
 
-## 2025-03 – Present  
-**Momentum Researcher – Centro de Astrobiología (CAB), CSIC - INTA, Madrid, Spain**  
-Project: *Artificial Intelligence Integral Tool for AstroChemical Analysis (AI-ITACA)*  
-- Development of cutting-edge AI software to analyze the chemical complexity in the interstellar medium (ISM) and its implications for the origin of life.  
-- Uses data from ALMA and JWST archives.  
-- [Google Scholar](https://scholar.google.es/citations?user=P9q9W8gAAAAJ&hl=es&oi=ao)  
-- [ReadTheDocs](https://astrodev-g.readthedocs.io/en/latest/) | [GitHub](https://github.com/gabojaimesillanes)
+## PROFESSIONAL EXPERIENCE
 
-## 2024-05 – 2024-09  
-**JAE Intro ICU Researcher – Instituto de Astrofísica de Andalucía (IAA), Granada, Spain**  
-- ML framework to classify HI spectral profiles using CNN and unsupervised learning.  
-- Focus on upcoming SKAO surveys and big data analysis in radio astronomy.
+### 2025-03 – Present
 
-## 2021-03 – 2022-09  
-**Lecturer & Associate Researcher – Universidad Privada Boliviana (UPB)**  
-- Lecturer of courses in Mobile Communications, Antennas, DSP, and Transmission Lines.  
-- Member of the Radiocommunications Laboratory: [http://lrc.upb.edu/people](http://lrc.upb.edu/people)
+**Momentum Researcher**
+Centro de Astrobiología (CAB) – Consejo Superior de Investigaciones Científicas (CSIC) – Instituto Nacional de Técnica Aeroespacial (INTA), Madrid, Spain.
+Currently working on the project **Artificial Intelligence Integral Tool for AstroChemical Analysis (AI-ITACA)**. This initiative integrates various Machine Learning (ML) techniques to address key challenges in modern astrochemistry. The aim is to develop a comprehensive AI-based analytical platform that can revolutionize our understanding of chemical complexity in the interstellar medium (ISM) and its connection to the origins of life. The tool leverages extensive archives from the **Atacama Large Millimeter/submillimeter Array (ALMA)** and the **James Webb Space Telescope (JWST)**, employing deep learning to identify molecular features and predict unknown chemical pathways in astronomical observations.
 
-## 2021-04 – 2021-11  
-**Virtual Courses Consultant – Fundación Educacional San Agustín (FESA)**  
-- Coordination and implementation of virtual academic programs.
+* Project website (ReadTheDocs): [https://astrodev-g.readthedocs.io/en/latest/](https://astrodev-g.readthedocs.io/en/latest/)
+* GitHub repository: [https://github.com/gabojaimesillanes](https://github.com/gabojaimesillanes)
+* Google Scholar: [https://scholar.google.es/citations?user=P9q9W8gAAAAJ\&hl=es\&oi=ao](https://scholar.google.es/citations?user=P9q9W8gAAAAJ&hl=es&oi=ao)
 
-## 2019-09 – 2019-12  
-**Operations Engineer – Agencia Boliviana Espacial (ABE)**  
-- Satellite monitoring, telemetry, RF system supervision, VSAT installations, and TKSat-1 analysis.
+### 2024-05 – 2024-09
 
-## 2017-05 – 2017-10  
-**RAN Planning Engineer – Nuevatel PCS, Bolivia**  
-- Planning of 2G/3G/4G/WiMax using ASSET, Mapinfo, and performance reporting.
+**JAE Intro ICU Researcher**
+Instituto de Astrofísica de Andalucía (IAA), Granada, Spain.
+Development of an ML-based framework for classification of **HI spectral profiles** using **unsupervised clustering** and **Convolutional Neural Networks (CNNs)**. By converting HI data into 2D spectral images, this approach improves detection of profile asymmetries and fine structures, enabling more accurate scientific interpretations. The pipeline is designed for scalability and application to extensive surveys such as those from **Square Kilometre Array Observatory (SKAO)** and its precursors.
 
-## 2015-02 – 2015-08  
-**Network Quality Assurance Intern – Telecel TIGO, Bolivia**  
-- Analysis and simulation of 2G/3G/4G national network performance metrics.
+### 2021-03 – 2022-09
 
-## 2011-04 – 2017-05  
-**Consulting Teacher – Héroes del Boquerón School**  
-- Lecturer of Physics, Mathematics, and Astronomy.
+**Lecturer & Associate Researcher**
+Universidad Privada Boliviana (UPB) – Radiocommunications Laboratory, Bolivia.
+Delivered undergraduate courses in:
 
----
+* **IT3014 – Mobile Communications Systems** (2021–2023)
+* **IT3006 – Theory of Antennas** (2021–2023)
+* **IT3011 – Switched Networks** (2022)
+* **IT3001 – Transmission Lines** (2021)
+* **IT2003 – Digital Signal Processing** (2022)
+  Contributed to R\&D activities in wireless systems and coordinated laboratory-based teaching with real-world applications.
+  Lab website: [http://lrc.upb.edu/people/](http://lrc.upb.edu/people/)
 
-# Project Management & Volunteering
+### 2021-04 – 2021-11
 
-## 2024-07 – Present  
-**Bolivian Virtual Observatory (BVO)**  
-- Global Sky Partner of Las Cumbres Observatory  
-- Focus: Supernovae monitoring and astrophotography.  
-- [https://bolivianvirtualobservatory.readthedocs.io/en/latest/](https://bolivianvirtualobservatory.readthedocs.io/en/latest/)
+**Virtual Courses Administrative Consultant**
+Fundación Educacional San Agustin (F.E.S.A.), Bolivia.
+Coordinated and implemented complementary academic virtual courses in STEM areas for secondary students.
 
-## 2019-06 – Present  
-**National Astronomy Education Coordinator – IAU (NAEC Bolivia)**  
-- IAU OAE project with Fundación Educacional San Agustín (FESA).
+### 2019-09 – 2019-12
 
-## 2021-06  
-**Astro3DBol – Office of Astronomy for Development (OAD) - IAU**  
-- Development of 3D astronomy education kits contextualized with Tiwanaku culture.  
-- [https://sites.google.com/view/astro3dbol](https://sites.google.com/view/astro3dbol)
+**Engineer of Operations**
+Agencia Boliviana Espacial (ABE), La Paz, Bolivia.
+Monitored telemetry and managed satellite control systems at the **Centro de Control Satelital (CSS)** and **Centro de Comunicaciones y Operaciones (COCC)**. Tasks included:
 
-## 2021-03  
-**IOAA Team Bolivia Leader – National Astronomy Olympiads**  
-- Organizing committee for Bolivian and Latin American astronomy competitions.
+* Data supervision and hub configuration
+* Satellite orbital control (CCAS & OCAS)
+* LinkBudget, EsNo, RF signal analysis
+* VSAT ODU–IDU installation and integration
 
----
+### 2017-05 – 2017-10
 
-# University Degrees
+**Radio Access Network Planning Engineer**
+Nuevatel PCS, Cochabamba, Bolivia.
+Planned and simulated wireless radio access networks for 2G, 3G, 4G, and WiMax technologies. Used tools: **ASSET-Aircom Enterprise**, **MapInfo**, and **Global Mapper**. Managed national network KPIs for vendors ZTE, Nokia, and Huawei.
 
-## 2022-09 – 2024-07  
-**MSc in Astrophysics – Universidad de La Laguna (ULL), Spain**  
-- Specialty: Observational/Instrumental  
-- Degree topic: Corotation radius detection in spiral galaxies using ALMA CO(2-1) data cubes.  
-- Scholarship: Fundación Carolina  
-- Practices at Instituto de Astrofísica de Canarias (IAC)
+### 2015-02 – 2015-08
 
-## 2018-09 – 2020-08  
-**MEng in Electronic Science and Technology – BUAA (Beihang University), China**  
-- Degree topic: Design of satellite communication payload antennas and analysis of terrestrial mobile coexistence.  
-- Scholarship: Chinese Government Scholarship (CSC)
+**Network Quality Assurance Engineering Intern**
+Telecel TIGO, Cochabamba, Bolivia.
+Analyzed network coverage, QoS, QoE, and capacity for national infrastructure supporting 2G, 3G, and 4G networks.
 
-## 2011-02 – 2015-12  
-**Bachelor in Telecommunications Engineering – Universidad Católica Boliviana San Pablo**  
-- Public defense score: 100/100  
-- Degree topic: Application of Small Cells in high-density mobile environments in Cochabamba.
+### 2011-04 – 2017-05
 
-## 2016-12  
-**Diploma in University Education – Universidad Mayor de San Simón (UMSS), Bolivia**
+**Consulting Teacher**
+Héroes del Boquerón School, Bolivia.
+Taught physics, mathematics, and astronomy to high school students.
 
----
+## PROJECTS MANAGEMENT & VOLUNTEERING
 
-# Academic & Professional Courses
+### 2024-07 – Present
 
-- **2021-04**: 5G Strategic Vision – Qualcomm / Universidad Politécnica de Madrid  
-- **2021-01**: Mobile Broadband, 5G and Future Services – ITU Certification  
-- **2014-05**: Geo-satellite Technology – Universidad Católica Boliviana  
-- **2012-10**: 3G/4G Mobile Protocols – NUXWAY S.I.B., Bolivia  
-- **2012-10**: Satellite Telecommunications in Bolivia – Engineers Society of Bolivia  
-- **2011-03**: Computer Hardware and Maintenance – ECUABOL Technologies
+**Coordinator – Bolivian Virtual Observatory (BVO)**
+Las Cumbres Observatory (LCO) – Global Sky Partner.
+Lead for SNII monitoring campaigns and astrophotography educational outreach.
+Website: [https://bolivianvirtualobservatory.readthedocs.io/en/latest/](https://bolivianvirtualobservatory.readthedocs.io/en/latest/)
 
----
+### 2019-06 – Present
 
-# Publications & Dissertations
+**NAEC Bolivia – National Astronomy Education Coordinator**
+International Astronomical Union (IAU), OAE/FESA.
+Facilitates astronomy education projects nationally.
 
-- **Paper** (Author): *Performance Measurement in LTE-a Networks*, Revista Investigación y Desarrollo, Vol. 22 (2022).  
-  [DOI](https://doi.org/10.23881/idupbo.022.1-11i)
+### 2021-06
 
-- **Paper** (Author): *Planning of Radio Access Networks using Small Cells*, Vol. 21 (2021).  
-  [DOI](https://doi.org/10.23881/idupbo.021.1-2i)
+**Lead – Astro3DBol Project**
+Office of Astronomy for Development (OAD), IAU.
+Developed 3D educational kits linking astronomy with Tiwanaku cultural heritage.
+Website: [https://sites.google.com/view/astro3dbol](https://sites.google.com/view/astro3dbol)
 
-- **Colloquium**: *Small Communications Satellites – Background and Applications*, UPB, 2020
+### 2021-03
 
-- **Presentation**: *Astronomy Education as the Academic Ether: Bolivia Case Study* – Shaw-IAU Workshop, 2020
+**Leader – Bolivian Delegation**
+International Olympiad on Astronomy and Astrophysics (IOAA), OLAA & OCEPB.
 
-- **Presentation**: *Space Technology & Mobile Networks for UN 2030 Agenda* – UN/China Forum, 2019
+## UNIVERSITY DEGREES
 
-- **Paper** (Co-author): *Latin-American Space Workforce & Andean Contributions* – IAC 2019, [Summary](https://iafastro.directory/iac/paper/id/50349/summary/)
+### 2022-09 – 2024-07
 
-- **Book**: *Astronomy and Astrophysics for Scientific Olympiads* – SENAPI/FESA, 2017  
-  [SENAPI Record](https://senapi.gob.bo/sites/default/files/senapi/gaceta/gaceta-971-dautor-20170613.pdf)
+**MSc in Astrophysics** – Universidad de La Laguna (ULL), Spain.
+Specialization: Instrumental and Observational Astrophysics.
+Fundación Carolina Scholarship. Practical training at IAC.
+Thesis: Explored corotation radius detection using CO(2-1) moment maps from the PHANGS-ALMA survey. Applied advanced shapelet transformations and clustering techniques to analyze molecular gas dynamics.
 
-- **Tutoring**: Undergraduate project on 5G implementation in Bolivia.  
-  Student: Franklin Selim Vidangos Crespo. Score: 91/100, UPB, 2022.
+### 2018-09 – 2020-08
 
----
+**MEng in Electronic Science and Technology** – Beihang University (BUAA), Beijing, China.
+CSC Scholarship. Focused on satellite payload antenna design and Ka-band communication systems for LEO platforms.
 
-# Scholarships
+### 2011-02 – 2015-12
 
-- **2022-09**: *Fundación Carolina* – MSc Astrophysics, Universidad de La Laguna, Spain  
-- **2022-11**: *Global Rising Star Award* – Space Generation Advisory Council (SGAC), USA  
-- **2018-09**: *Chinese Government Scholarship (CSC)* – BUAA, Beijing, China  
-- **2014-06**: *Excellence Scholarship* – UCB “San Pablo”, Bolivia
+**Bachelor in Telecommunications Engineering** – Universidad Católica Boliviana San Pablo.
+Graduated with First-Class Honors (100/100).
+Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
+
+### 2016-12
+
+**Diploma in University Education** – Universidad Mayor de San Simón (UMSS), Cochabamba.
+
+## ACADEMIC AND PROFESSIONAL COURSES
+
+* 2021-04 – *Technical and Strategic Vision of 5G* – Universidad Politécnica de Madrid (UPM) / Qualcomm
+* 2021-01 – *Mobile Broadband Internet and Future Services* – ITU Certification
+* 2012-10 – *3G/4G Mobile Telecom Systems* – NUXWAY S.I.B., Bolivia
+* 2014-05 – *Intro to Geo-satellite Technology* – UCB San Pablo
+* 2012-10 – *Satellite Technology and Perspectives in Bolivia* – Engineers of Bolivia Society
+* 2011-03 – *Computer Hardware Assembly and Maintenance* – ECUABOL Technologies
+
+## PUBLICATIONS & DISSERTATIONS
+
+* **Performance Measurement Methodology in LTE-a Networks...**
+  *Jaimes, G., Siles, G.A.*
+  Revista Investigación y Desarrollo, Vol. 22, Num. 1 (2022).
+  [DOI: 10.23881/idupbo.022.1-11i](https://doi.org/10.23881/idupbo.022.1-11i)
+
+* **Planning and Simulation for Radio Access Networks on Small Cells...**
+  *Jaimes, G.*
+  Revista Investigación y Desarrollo, Vol. 21, Num. 1 (2021).
+  [DOI: 10.23881/idupbo.021.1-2i](https://doi.org/10.23881/idupbo.021.1-2i)
+
+* **Colloquium: Small Communication Satellites – Background and Applications**
+  UPB – Laboratorio de Radiocomunicaciones (LRC), Cochabamba, 2020.
+
+* **Astronomy Education as The 'Academic Ether' – Bolivia Case Study**
+  2nd Shaw-IAU Workshop, 2020.
+
+* **Space Tech & Telecom Networks for UN 2030 Agenda – Bolivia Case**
+  UN/China Forum on Space Tech for SDGs, Changsha, 2019.
+
+* **Latin-American Space Workforce and Andean Road Countries** *(Co-author)*
+  IAC 2019.
+  [https://iafastro.directory/iac/paper/id/50349/summary/](https://iafastro.directory/iac/paper/id/50349/summary/)
+
+* **Book: Astronomy and Astrophysics for Scientific Olympiads**
+  *Jaimes, G.*
+  Fundación FESA, 2017.
+  SENAPI Registry:
+  [https://senapi.gob.bo/sites/default/files/senapi/gaceta/gaceta-971-dautor-20170613.pdf](https://senapi.gob.bo/sites/default/files/senapi/gaceta/gaceta-971-dautor-20170613.pdf)
+
+* **Tutoring: Undergraduate Thesis – 5G Implementation in Bolivia**
+  Student: *Franklin Selim Vidangos*
+  Score: 91/100. UPB (2022).
+
+## SCHOLARSHIPS
+
+* 2022-09 – *Fundación Carolina* (MSc. Astrophysics, ULL)
+* 2022-11 – *Global Rising Star Award*, SGAC (USA)
+* 2018-09 – *Chinese Government CSC Scholarship* (BUAA, China)
+* 2014-06 – *Excellence Scholarship*, UCB San Pablo
