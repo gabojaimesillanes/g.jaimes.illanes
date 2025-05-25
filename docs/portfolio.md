@@ -93,7 +93,7 @@ I have raised a total of **€11,373** in support of research, education, and as
 Leads supernova (SNII) monitoring campaigns and astrophotography educational outreach initiatives.
 Website: [https://bolivianvirtualobservatory.readthedocs.io/en/latest/](https://bolivianvirtualobservatory.readthedocs.io/en/latest/)
 
-* **Rise:** 15 hours of robotic telescope time, valued at **\$3750 USD**.
+* **Rise:** 15 hours of robotic telescope time, valued at **$3750 USD**.
 
 ### 2019-06 – Present
 
