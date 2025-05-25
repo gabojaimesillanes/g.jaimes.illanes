@@ -84,7 +84,7 @@ Hands-on observational training and research experience using professional-grade
 
 ## PROJECTS IMPLEMENTED AND RISE OF BUDGET
 
-I have raised a total of **€11,373** in support of research, education, and astronomy outreach projects. All these initiatives were executed voluntarily and at no cost for participants, aiming to benefit students, educators, and the astronomy community. Support has come from international organizations such as the **International Astronomical Union (IAU)**, and local schools and universities.
+I have raised a total of **€11,373** in support of scientific research, education, and astronomy outreach projects. All these initiatives were executed voluntarily and at no cost for participants, aiming to benefit students, educators, and the astronomy community. Support has come from grants, technical proposals and volunteering in organizations such as the **International Astronomical Union (IAU)**, local foundations and university laboratories.
 
 ### 2024-07 – Present
 
