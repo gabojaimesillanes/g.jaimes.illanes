@@ -1,4 +1,4 @@
-# Portfolio and Curriculum Vitae
+# PORTFOLIO and CURRICULUM VITAE
 
 ## PROFESSIONAL EXPERIENCE
 
