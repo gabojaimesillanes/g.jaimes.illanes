@@ -5,11 +5,12 @@
 ### 2025-03 – Present
 
 **Momentum Researcher**  
+
 The TFC contract is supported by the **Momentum Program**, an initiative by the Spanish National Research Council (CSIC) aimed at fostering scientific leadership among outstanding postdoctoral researchers. The program provides funding and institutional support to help researchers establish independent and innovative lines of investigation within CSIC centers.
 
 [Centro de Astrobiología (CAB)](https://cab.inta-csic.es/) – [Spanish National Research Council (CSIC)](https://www.csic.es/) – [National Institute for Aerospace Technology (INTA)](https://www.inta.es/), Madrid, Spain.
 
-* First version of the tool: [https://aiitaca.streamlit.app](https://aiitaca.streamlit.app)  
+* First version of AI-ITACA: [https://aiitaca.streamlit.app](https://aiitaca.streamlit.app)  
 
 Currently working on the project **Artificial Intelligence Integral Tool for AstroChemical Analysis (AI-ITACA)**. This initiative integrates various Machine Learning (ML) techniques to address key challenges in modern astrochemistry. The aim is to develop a comprehensive AI-based analytical platform that can revolutionize our understanding of chemical complexity in the interstellar medium (ISM) and its connection to the origins of life. The tool leverages extensive archives from the **Atacama Large Millimeter/submillimeter Array (ALMA)** and the **James Webb Space Telescope (JWST)**, employing deep learning to identify molecular features and predict unknown chemical pathways in astronomical observations.
 
