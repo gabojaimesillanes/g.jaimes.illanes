@@ -4,11 +4,16 @@
 
 ### 2025-03 – Present
 
-**Momentum Researcher**
-Centro de Astrobiología (CAB) – Consejo Superior de Investigaciones Científicas (CSIC) – Instituto Nacional de Técnica Aeroespacial (INTA), Madrid, Spain.
+**Momentum Researcher**  
+The TFC contract is supported by the **Momentum Program**, an initiative by the Spanish National Research Council (CSIC) aimed at fostering scientific leadership among outstanding postdoctoral researchers. The program provides funding and institutional support to help researchers establish independent and innovative lines of investigation within CSIC centers.
+
+[Centro de Astrobiología (CAB)](https://cab.inta-csic.es/) – [Spanish National Research Council (CSIC)](https://www.csic.es/) – [National Institute for Aerospace Technology (INTA)](https://www.inta.es/), Madrid, Spain.
+
+* First version of the tool: [https://aiitaca.streamlit.app](https://aiitaca.streamlit.app)  
+
 Currently working on the project **Artificial Intelligence Integral Tool for AstroChemical Analysis (AI-ITACA)**. This initiative integrates various Machine Learning (ML) techniques to address key challenges in modern astrochemistry. The aim is to develop a comprehensive AI-based analytical platform that can revolutionize our understanding of chemical complexity in the interstellar medium (ISM) and its connection to the origins of life. The tool leverages extensive archives from the **Atacama Large Millimeter/submillimeter Array (ALMA)** and the **James Webb Space Telescope (JWST)**, employing deep learning to identify molecular features and predict unknown chemical pathways in astronomical observations.
 
-* Project website (ReadTheDocs): [https://astrodev-g.readthedocs.io/en/latest/](https://astrodev-g.readthedocs.io/en/latest/)
+* Website (ReadTheDocs): [https://astrodev-g.readthedocs.io/en/latest/](https://astrodev-g.readthedocs.io/en/latest/)
 * GitHub repository: [https://github.com/gabojaimesillanes](https://github.com/gabojaimesillanes)
 * Google Scholar: [https://scholar.google.es/citations?user=P9q9W8gAAAAJ\&hl=es\&oi=ao](https://scholar.google.es/citations?user=P9q9W8gAAAAJ&hl=es&oi=ao)
 
@@ -160,26 +165,46 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 * 2012-10 – *Satellite Technology and Perspectives in Bolivia* – Engineers of Bolivia Society
 * 2011-03 – *Computer Hardware Assembly and Maintenance* – ECUABOL Technologies
 
-## DISSERTATIONS
+## SCIENTIFIC PRODUCTION
 
-* **Performance Measurement Methodology in LTE-a Networks...**  
+* **Classification of HI Galaxy Profiles Using Unsupervised Learning and Convolutional Neural Networks: A Comparative Analysis and Methodological Cases of Studies**  
+  *Jaimes, G.*  
+  14th Astronomical Data Analysis Software and Systems (ADASS), 1 Jan 2025.  
+  [ADS Link](https://ui.adsabs.harvard.edu/abs/2025arXiv250111657J/abstract)  
+
+  Hydrogen, the most abundant element in the universe, is crucial for understanding galaxy formation and evolution. The 21 cm neutral atomic hydrogen (HI) spectral line maps the gas kinematics within galaxies, providing key insights into interactions, galactic structure, and star formation processes. With new radio instruments, the volume and complexity of data is increasing. To analyze and classify integrated HI spectral profiles efficiently, this work presents a framework that integrates Machine Learning (ML) techniques, combining unsupervised methods and Convolutional Neural Networks (CNN). The framework was applied to a subsample of 318 spectral HI profiles from the Catalogue of Isolated Galaxies (CIG) and 30,780 profiles from the ALFALFA survey. Pre-processing used the Busyfit package and polynomial, Gaussian, and double-Lorentzian models. Clustering techniques such as K-means, spectral clustering, DBSCAN, and agglomerative clustering enabled feature extraction. Classification was bootstrapped using K-Nearest Neighbors, Support Vector Machines, and Random Forest, and later optimized using CNN. Additionally, 2D representations of the profiles based on rotation, subtraction, and normalization helped quantify asymmetry and improve classification. This methodology can support future surveys like the Square Kilometre Array (SKA).
+
+* **Book: Astronomy and Astrophysics for Scientific Olympiads**  
+  *Jaimes, G.*  
+  Fundación FESA, 2017.  
+  SENAPI Registry:  
+  [https://senapi.gob.bo/sites/default/files/senapi/gaceta/gaceta-971-dautor-20170613.pdf](https://senapi.gob.bo/sites/default/files/senapi/gaceta/gaceta-971-dautor-20170613.pdf)
+
+* **Performance Measurement Methodology in LTE-Advanced Networks Using QoS Metrics and Mobile Data Services**  
   *Jaimes, G., Siles, G.A.*  
   Revista Investigación y Desarrollo, Vol. 22, Num. 1 (2022).  
   [DOI: 10.23881/idupbo.022.1-11i](https://doi.org/10.23881/idupbo.022.1-11i)
 
-* **Planning and Simulation for Radio Access Networks on Small Cells...**  
+* **Planning and Simulation for Radio Access Networks Based on Small Cells Using Radio Planning Tools**  
   *Jaimes, G.*  
   Revista Investigación y Desarrollo, Vol. 21, Num. 1 (2021).  
   [DOI: 10.23881/idupbo.021.1-2i](https://doi.org/10.23881/idupbo.021.1-2i)
 
+* **Space Technology and Telecommunication Networks for the UN 2030 Agenda – The Case of Bolivia**  
+  UN/China Forum on Space Technology for the Sustainable Development Goals, Changsha, 2019.
+  [https://www.unoosa.org/documents/pdf/psa/activities/2019/UNChinaSymSDGs](https://www.unoosa.org/documents/pdf/psa/activities/2019/UNChinaSymSDGs/Presentations/UNChinaChangshaPresentation-G.Jaimes-RCSSTEAP.pdf)
+
+* **Latin-American Space Workforce and Andean Road Countries** *(Co-author)*  
+  International Astronautical Congress (IAC), 2019.  
+  [https://iafastro.directory/iac/paper/id/50349/summary/](https://iafastro.directory/iac/paper/id/50349/summary/)
+
+## DISSERTATIONS
+
+* **Astronomy Education as the 'Academic Ether' – Bolivia Case Study**  
+  2nd Shaw–IAU Workshop on Astronomy for Education, 2020.
+
 * **Colloquium: Small Communication Satellites – Background and Applications**  
   UPB – Laboratorio de Radiocomunicaciones (LRC), Cochabamba, 2020.
-
-* **Space Tech & Telecom Networks for UN 2030 Agenda – Bolivia Case**  
-  UN/China Forum on Space Tech for SDGs, Changsha, China.
-
-* **“The Academic Ether” – Astronomy Education in Bolivia**  
-  Second Shaw–IAU Workshop on Astronomy for Education, OAE.
 
 * **Astronomy Teaching and Didactics in Latin America**  
   1st Latin American Meeting on Astronomy Teaching and Didactics (Virtual), Chile.
@@ -193,16 +218,16 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 * **Astrophysics in Action for Science, Education and Projects**  
   Horizons 2024: SG Bolivia Online Workshop, Bolivia.
 
-* **“DSO Astrophotography”**  
-  *Published in Opinión newspaper (17-08-2022)*.
+* **DSO Astrophotography**  
+  *Published in Opinión newspaper (17-08-2022).*
 
-* **“The Art of Looking at the Sky”**  
-  *Published in Los Tiempos newspaper (19-02-2024)*.
+* **The Art of Looking at the Sky**  
+  *Published in Los Tiempos newspaper (19-02-2024).*
 
 * **Coordination of the “San Agustín” Astronomy Club**  
   Fundación Educacional FESA.
 
-* **Astronomical Instrumentation & Considerations for Choosing a First Telescope**  
+* **Astronomical Instrumentation and Considerations for Choosing a First Telescope**  
   ASTROCBA, Bolivia.
 
 * **DSO Astrophotography and Optimization of Astronomical Data Acquisition Using Portable Equipment**  
@@ -213,7 +238,15 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 
 ## SCHOLARSHIPS
 
-* 2022-09 – *Fundación Carolina* (MSc. Astrophysics, ULL)
-* 2022-11 – *Global Rising Star Award*, SGAC (USA)
-* 2018-09 – *Chinese Government CSC Scholarship* (BUAA, China)
-* 2014-06 – *Excellence Scholarship*, UCB San Pablo
+* **2022-09 – Fundación Carolina Scholarship**  
+  Awarded a fully funded academic scholarship by Fundación Carolina to pursue the *MSc. in Astrophysics* at the Universidad de La Laguna (ULL), Spain. The program is jointly supported by the Instituto de Astrofísica de Canarias (IAC), one of Europe’s leading astrophysics research centers.
+
+* **2022-11 – Global Rising Star Award – Space Generation Advisory Council (SGAC)**  
+  Recognized internationally with the *Global Rising Star Award* by SGAC (USA) for outstanding engagement and leadership in space-related activities. The award included sponsorship to attend the 20th Space Generation Congress and the 73rd International Astronautical Congress in Paris, France.
+
+* **2018-09 – Chinese Government CSC Scholarship**  
+  Received the prestigious *China Scholarship Council (CSC)* full scholarship to study at Beihang University (BUAA), Beijing, China. The program supported advanced training in space science and engineering disciplines within one of China’s top aerospace institutions.
+
+* **2014-06 – UCB San Pablo Excellence Scholarship**  
+  Awarded the *Excellence Scholarship* by the Universidad Católica Boliviana “San Pablo” in recognition of academic merit and leadership potential. Covered full tuition for undergraduate studies in Telecommunications Engineering.
+
