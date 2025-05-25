@@ -8,9 +8,7 @@
 
 The TFC contract is supported by the **Momentum Program**, an initiative by the Spanish Higher Science Research Council (CSIC) aimed at fostering scientific leadership among outstanding researchers. The program provides funding and institutional support to help researchers establish independent and innovative lines of investigation within CSIC centers aligned with Artificial Intelligence (AI) and Machine Learning (ML) techniques.
 
-[Centro de Astrobiología (CAB)](https://cab.inta-csic.es/) 
-[Spanish National Research Council (CSIC)](https://www.csic.es/) 
-[National Institute for Aerospace Technology (INTA)](https://www.inta.es/), Madrid, Spain.
+[Centro de Astrobiología (CAB)](https://cab.inta-csic.es/) - [Spanish National Research Council (CSIC)](https://www.csic.es/) - [National Institute for Aerospace Technology (INTA)](https://www.inta.es/), Madrid, Spain.
 
 * First version of AI-ITACA: [https://aiitaca.streamlit.app](https://aiitaca.streamlit.app)  
 
