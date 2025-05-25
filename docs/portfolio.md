@@ -78,7 +78,7 @@ Taught physics, mathematics, and astronomy to high school students.
 Hands-on observational training and research experience using professional-grade telescopes at leading astronomical facilities. These sessions contributed to instrumental calibration, photometric measurements, and supernovae observations. Participation involved telescope operation, data acquisition, and preliminary reduction techniques under professional mentorship.
 
 * **[IAC80 Telescope](https://www.iac.es/en/telescopes/iac-80)** – Teide Observatory, Spain. Training in optical photometry and night operations.
-* **[Isaac Newton Telescope (INT)](https://www.ing.iac.es/astronomy/telescopes/int/)** – Roque de los Muchachos Observatory, La Palma. Observations and data reduction using the IDS spectrograph.
+* **[Isaac Newton Telescope (INT)](https://www.ing.iac.es/astronomy/telescopes/int/)** – Roque de los Muchachos Observatory, La Palma. Observations and data reduction using CCD Sensors.
 * **[Mercator Telescope](https://www.mercator.iac.es/)** – La Palma. Exposure to high-resolution spectroscopy techniques and precision targeting.
 * **[Las Cumbres Observatory (LCO)](https://lco.global/)** – Global Robotic Network. Principal investigator of educational and supernova monitoring campaigns.
 
