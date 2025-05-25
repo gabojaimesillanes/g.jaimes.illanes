@@ -46,7 +46,7 @@ Coordinated and implemented complementary academic virtual courses in STEM areas
 
 ### 2019-09 – 2019-12
 
-**Engineer of Operations**
+**Engineer of Operations Jr**
 Agencia Boliviana Espacial (ABE), La Paz, Bolivia.
 Monitored telemetry and managed satellite control systems at the **Centro de Control Satelital (CSS)** and **Centro de Comunicaciones y Operaciones (COCC)**. Tasks included:
 
