@@ -198,7 +198,7 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 
 ---
 
-* *AUTHOR*
+*AUTHOR*
 
 * **Classification of HI Galaxy Profiles Using Unsupervised Learning and Convolutional Neural Networks: A Comparative Analysis and Methodological Cases of Studies**  
   *Jaimes, G.*  
@@ -226,7 +226,7 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
   UN/China Forum on Space Technology for the Sustainable Development Goals, Changsha, 2019.
   [https://www.unoosa.org/documents/pdf/psa/activities/2019/UNChinaSymSDGs](https://www.unoosa.org/documents/pdf/psa/activities/2019/UNChinaSymSDGs/Presentations/UNChinaChangshaPresentation-G.Jaimes-RCSSTEAP.pdf)
 
-* *CO-AUTHOR*
+*CO-AUTHOR*
 
 * **Latin-American Space Workforce and Andean Road Countries** *(Co-author)*  
   International Astronautical Congress (IAC), 2019.  
