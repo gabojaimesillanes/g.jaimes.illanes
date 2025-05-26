@@ -219,12 +219,12 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
   Horizons 2024: SG Bolivia Online Workshop, Bolivia.
 
 * **DSO Astrophotography**
-  [https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes](https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes/astrofotografia-dso/20220816224512877127.html)  
   *Published in Opinión newspaper on August 17, 2022.*
+  [https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes](https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes/astrofotografia-dso/20220816224512877127.html)  
   
-* **The Art of Looking Beyond the Lights**  
-  [https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces](https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces).
+* **The Art of Looking Beyond the Lights**
   *Published in Los Tiempos newspaper on February 19, 2024.*
+  [https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces](https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces).
 
 * **Coordination of the “San Agustín” Astronomy Club**  
   Fundación Educacional FESA.
