@@ -1,6 +1,6 @@
 # PORTFOLIO and CURRICULUM VITAE
 
-![NGC6523_GJaimes](content/im/NGC6523_BVO_GJAIMES_FULL_2.png)
+![NGC6523_GJaimes](content/im/NGC6523_BVO_GJAIMES_FULL_2.jpg)
 
 ---
 
@@ -92,9 +92,9 @@ Hands-on observational training and research experience using professional-grade
 * **[Mercator Telescope](https://www.mercator.iac.es/)** – La Palma. Exposure to high-resolution spectroscopy techniques and precision targeting.
 * **[Las Cumbres Observatory (LCO)](https://lco.global/)** – Global Robotic Network. Principal investigator of educational and supernova monitoring campaigns.
 
-* Astronomical Database report for: **AAVSO, COBS, TNS**
-  
-* **[Astrobin - Astrophotography](https://app.astrobin.com/u/gjaimes#gallery)**
+Astronomical Database report for: **AAVSO, COBS, TNS**
+
+**[Astrobin - Astrophotography](https://app.astrobin.com/u/gjaimes#gallery)**
 
 ---
 
