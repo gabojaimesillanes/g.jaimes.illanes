@@ -4,10 +4,11 @@
 
 ---
 
-<img src="content/im/GJaimes_Profile.jpg" alt="NGC6523_GJaimes" style="height: 80px; float: center; margin-left: 200px;">
+<p align="center">
+  <img src="content/im/GJaimes_Profile.jpg" alt="NGC6523_GJaimes" style="height: 100px;">
+</p>
 
 ## PROFESSIONAL EXPERIENCE
-
 
 
 ---
