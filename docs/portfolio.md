@@ -40,7 +40,7 @@ Currently working on the project **Artificial Intelligence Integral Tool for Ast
 
 ### 2024-05 – 2024-09
 
-**JAE Intro ICU Researcher**
+**JAE Intro ICU Researcher.**
 Instituto de Astrofísica de Andalucía (IAA), Granada, Spain.
 Development of an ML-based framework for classification of **HI spectral profiles** using **unsupervised clustering** and **Convolutional Neural Networks (CNNs)**. The pipeline is designed for scalability and application to extensive surveys such as those from **Square Kilometre Array Observatory (SKAO)** and its precursors.
 
@@ -109,7 +109,7 @@ Hands-on observational training and research experience using professional-grade
 
 Astronomical Database report for: **AAVSO, COBS, TNS**
 
-**Astrophotography: [Astrobin ](https://app.astrobin.com/u/gjaimes#gallery)**
+Astrophotography: **[Astrobin ](https://app.astrobin.com/u/gjaimes#gallery)**
 
 ---
 
