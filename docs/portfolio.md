@@ -102,7 +102,7 @@ Astronomical Database report for: **AAVSO, COBS, TNS**
 
 ---
 
-## PROJECTS IMPLEMENTED AND RISE OF BUDGET
+## PROJECTS IMPLEMENTED AND RISE OF FUNDING
 
 ---
 
@@ -372,19 +372,31 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 
 ---
 
-## SCHOLARSHIPS
+## SCHOLARSHIPS AND AWARDS
 
 ---
+
+* **2025-06 – Canary Islands Institute of Astrophysics (IAC) – EDUCADO Project**  
+  June 16–20, 2025  
+  Received funding for fee waiver to attend the second EDUCADO Training School, hosted by the Instituto de Astrofísica de Canarias (IAC) at the University of La Laguna, Tenerife. The program features advanced training in computer science concepts applied to astrophysics, including machine learning, morphological filtering, probabilistic modeling, coding practices, and soft skills. Includes lectures, hands-on projects, interactive sessions, and a visit to the Teide Observatory.
+
+* **2022-11 – Global Rising Star Award – Space Generation Advisory Council (SGAC)**  
+  Recognized internationally with the *Global Rising Star Award* by SGAC (USA) for outstanding engagement and leadership in space-related activities. The award included sponsorship to attend the 20th Space Generation Congress and the 73rd International Astronautical Congress in Paris, France.
 
 * **2022-09 – Fundación Carolina Scholarship**  
   Awarded a fully funded academic scholarship by Fundación Carolina to pursue the *MSc. in Astrophysics* at the Universidad de La Laguna (ULL), Spain. The program is jointly supported by the Instituto de Astrofísica de Canarias (IAC), one of Europe’s leading astrophysics research centers.
 
-* **2022-11 – Global Rising Star Award – Space Generation Advisory Council (SGAC)**  
-  Recognized internationally with the *Global Rising Star Award* by SGAC (USA) for outstanding engagement and leadership in space-related activities. The award included sponsorship to attend the 20th Space Generation Congress and the 73rd International Astronautical Congress in Paris, France.
+* **2022-05 – South American Space Leaders Award – SGAC**  
+  SGAC announced the winners of the *2022 South American Space Leaders Award*, sponsoring participation in the 7th South American Space Generation Workshop (SA-SGW) held on May 15, 2022, in Quito, Ecuador.
 
 * **2018-09 – Chinese Government CSC Scholarship**  
   Received the prestigious *China Scholarship Council (CSC)* full scholarship to study at Beihang University (BUAA), Beijing, China. The program supported advanced training in space science and engineering disciplines within one of China’s top aerospace institutions.
 
 * **2014-06 – UCB San Pablo Excellence Scholarship**  
-  Awarded the *Excellence Scholarship* by the Universidad Católica Boliviana “San Pablo” in recognition of academic merit and leadership potential. Covered full tuition for undergraduate studies in Telecommunications Engineering.
+  Awarded the *Excellence Scholarship* by the Universidad Católica Boliviana “San Pablo” in recognition of academic merit and leadership potential. Covered tuition for undergraduate studies in Telecommunications Engineering.
 
+* **2012-06 – UCB San Pablo Cultural Scholarship**  
+  Awarded for cultural activities and contributions to university life and celebrations at UCB.
+
+* **Jaime Escalante Decoration – Government of Cochabamba**  
+  Honored with the *Jaime Escalante Decoration* for contributions to STEAM education in support of the Plurinational Student Scientific Olympiad (Olimpiada Científica Estudiantil Plurinacional).
