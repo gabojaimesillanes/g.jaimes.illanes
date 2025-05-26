@@ -1,6 +1,8 @@
+# PORTFOLIO and CURRICULUM VITAE
+
 ![NGC6523_GJaimes](content/im/NGC6523_BVO_GJAIMES_FULL_b.jpg)
 
-# PORTFOLIO and CURRICULUM VITAE
+---
 
 ![NGC6523_prfile](content/im/GJaimes_Profile_2.jpg)
 
