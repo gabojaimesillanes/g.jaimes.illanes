@@ -4,7 +4,7 @@
 
 ---
 
-<img src="content/im/GJaimes_Profile.jpg" alt="NGC6523_GJaimes" style="height:200px;">
+<img src="content/im/GJaimes_Profile.jpg" alt="GJaimes_Profile" style="height:200px;">
 
 ---
 
