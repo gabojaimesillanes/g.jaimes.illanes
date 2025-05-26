@@ -4,7 +4,10 @@
 
 ---
 
-<img src="content/im/GJaimes_Profile.jpg" alt="GJaimes_Profile" style="height:200px;">
+.. image:: content/im/GJaimes_Profile.jpg
+   :alt: NGC6523_GJaimes
+   :align: right
+   :height: 80px
 
 ---
 
