@@ -7,9 +7,8 @@
 > ![NGC6523_profile](content/im/GJaimes_Profile_2.jpg)
 
 > **GABRIEL ANDRES JAIMES ILLANES**  
-> *email:* [gjaimes@cab.inta-csic.es](mailto:gjaimes@cab.inta-csic.es)
-> 
-> Momentum Program Researcher  
+> *email:* [gjaimes@cab.inta-csic.es](mailto:gjaimes@cab.inta-csic.es)<br>
+> > Momentum Program Researcher  
 > *Astrophysics Department, Center for Astrobiology (CAB)*  
 > *Spanish Higher Science Research Council (CSIC)*  
 > *28850, Torrejón de Ardoz (Madrid, Spain)*
