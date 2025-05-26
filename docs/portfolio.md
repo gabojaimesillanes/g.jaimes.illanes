@@ -2,15 +2,7 @@
 
 # PORTFOLIO and CURRICULUM VITAE
 
----
-
-<p align="center">
-  <img src="content/im/GJaimes_Profile.jpg" alt="NGC6523_GJaimes" style="height: 100px;">
-</p>
-
-## PROFESSIONAL EXPERIENCE
-
-
+![NGC6523_GJaimes](content/im/GJaimes_Profile.jpg)
 ---
 
 ### PROFESSIONAL EXPERIENCE
