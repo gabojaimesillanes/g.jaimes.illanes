@@ -103,12 +103,12 @@ Coordinates astronomy education programs and outreach efforts throughout Bolivia
 
 ### 2021-06
 
-**Lead – Astro3DBol Project**
+**Leader – Astro3DBol Project**
 **Office of Astronomy for Development (OAD), IAU**
 Designed and deployed 3D printed educational kits connecting Tiwanaku cultural heritage with modern astronomy.
 Website: [https://sites.google.com/view/astro3dbol](https://sites.google.com/view/astro3dbol)
 
-* **Rise:** Approved proposal raised **€3360** in funding.
+* **Rise:** Approved proposal raised **€3360** in funding. Additional institutional support equivalent to **€500**.
 
 ### 2021-10
 
@@ -219,10 +219,12 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 * **Astrophysics in Action for Science, Education and Projects**  
   Horizons 2024: SG Bolivia Online Workshop, Bolivia.
 
-* **[DSO Astrophotography](https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes/astrofotografia-dso/20220816224512877127.html)**  
+* **DSO Astrophotography**
+* [https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes](https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes/astrofotografia-dso/20220816224512877127.html)  
   *Published in Opinión newspaper on August 17, 2022.*
-
-* **[The Art of Looking Beyond the Lights](https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces)**  
+  
+* **The Art of Looking Beyond the Lights**  
+* [https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces](https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces)
   *Published in Los Tiempos newspaper on February 19, 2024.*
 
 * **Coordination of the “San Agustín” Astronomy Club**  
