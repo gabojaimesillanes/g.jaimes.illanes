@@ -17,5 +17,7 @@ nav:
          - 4. Astrophotography: '6.Astrophotography.md'
          - 5. Academic Content: '7.AcademicContent.md'
          - 6. Contact: '8.Contact.md'
+      - III. Astro3DBol:
+         - 1. About the Project: '1.Astro3DBol.md'
 
 theme: readthedocs
