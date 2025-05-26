@@ -277,7 +277,6 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
   2023
 
 * **ULL-ASTRO-MASTER Transient Discovery Report for 2023-11-06**  
-
   *Transient Name Server Discovery Report*, 2023, 1  
   2023
 
@@ -409,5 +408,5 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 * **2012-06 – UCB San Pablo Cultural Scholarship**  
   Awarded for cultural activities and contributions to university life and celebrations at UCB.
 
-* **Jaime Escalante Decoration – Government of Cochabamba**  
+* **2017 - 04 - Jaime Escalante Decoration – Government of Cochabamba, Bolivia**  
   Honored with the *Jaime Escalante Decoration* for contributions to STEAM education in support of the Plurinational Student Scientific Olympiad (Olimpiada Científica Estudiantil Plurinacional).
