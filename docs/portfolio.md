@@ -4,10 +4,8 @@
 
 ---
 
-.. image:: content/im/GJaimes_Profile.jpg
-   :alt: NGC6523_GJaimes
-   :align: right
-   :height: 80px
+## PROFESSIONAL EXPERIENCE <img src="content/im/GJaimes_Profile.jpg" alt="NGC6523_GJaimes" style="height: 60px; float: right; margin-left: 10px;">
+
 
 ---
 
