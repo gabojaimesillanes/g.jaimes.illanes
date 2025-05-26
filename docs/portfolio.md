@@ -36,7 +36,7 @@ Currently working on the project **Artificial Intelligence Integral Tool for Ast
 
 * Google Scholar: [https://scholar.google.es/citations?user=P9q9W8gAAAAJ\&hl=es\&oi=ao](https://scholar.google.es/citations?user=P9q9W8gAAAAJ&hl=es&oi=ao)
 * Website (ReadTheDocs): [https://gjaimesillanes.readthedocs.io](https://gjaimesillanes.readthedocs.io/en/latest)
-* GitHub repository: [https://github.com/gabojaimesillanes](https://github.com/gabojaimesillanes)
+* GitHub repository: [https://github.com/gabrieljaimesillanes](https://github.com/gabojaimesillanes)
 
 ### 2024-05 – 2024-09
 
@@ -117,7 +117,7 @@ Astrophotography: **[Astrobin ](https://app.astrobin.com/u/gjaimes#gallery)**
 
 ---
 
-I have raised a total of **€11,373** in support of scientific research, education, and astronomy outreach projects. All these initiatives were executed voluntarily and at no cost for participants, aiming to benefit students, educators, and the astronomy community. Support has come from grants, technical proposals and volunteering in organizations such as the International Astronomical Union (IAU), local foundations and university laboratories.
+I have raised a total of **€11,373** in support of scientific research, and astronomy education projects. These initiatives were executed voluntarily and at no cost for participants, aiming to benefit students, educators, and the astronomy community. Support has come from grants, technical proposals and volunteering in organizations such as the International Astronomical Union (IAU), local foundations and university laboratories.
 
 ### 2019-06 – Present
 
