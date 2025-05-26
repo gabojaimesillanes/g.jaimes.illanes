@@ -32,7 +32,7 @@ Currently working on the project **Artificial Intelligence Integral Tool for Ast
 
 **JAE Intro ICU Researcher**
 Instituto de Astrofísica de Andalucía (IAA), Granada, Spain.
-Development of an ML-based framework for classification of **HI spectral profiles** using **unsupervised clustering** and **Convolutional Neural Networks (CNNs)**. By converting HI data into 2D spectral images, this approach improves detection of profile asymmetries and fine structures, enabling more accurate scientific interpretations. The pipeline is designed for scalability and application to extensive surveys such as those from **Square Kilometre Array Observatory (SKAO)** and its precursors.
+Development of an ML-based framework for classification of **HI spectral profiles** using **unsupervised clustering** and **Convolutional Neural Networks (CNNs)**. The pipeline is designed for scalability and application to extensive surveys such as those from **Square Kilometre Array Observatory (SKAO)** and its precursors.
 
 ### 2021-03 – 2022-09
 
@@ -45,20 +45,21 @@ Delivered undergraduate courses in:
 * **IT3011 – Switched Networks** (2022)
 * **IT3001 – Transmission Lines** (2021)
 * **IT2003 – Digital Signal Processing** (2022)
-  Contributed to R\&D activities in wireless systems and coordinated laboratory-based teaching with real-world applications.
+
+  Contributed to R&D activities in wireless systems and coordinated laboratory-based teaching with real-world applications.
   Lab website: [http://lrc.upb.edu/people/](http://lrc.upb.edu/people/)
 
 ### 2021-04 – 2021-11
 
-**Virtual Courses Administrative Consultant**
+**Virtual Courses Administrative Consultant.**
 Fundación Educacional San Agustin (F.E.S.A.), Bolivia.
 Coordinated and implemented complementary academic virtual courses in STEM areas for secondary students.
 
 ### 2019-09 – 2019-12
 
-**Engineer of Operations Jr**
+**Engineer of Operations Jr.**
 Agencia Boliviana Espacial (ABE), La Paz, Bolivia.
-Monitored telemetry and managed satellite control systems at the **Centro de Control Satelital (CSS)** and **Centro de Comunicaciones y Operaciones (COCC)**. Tasks included:
+Monitored telemetry and managed satellite control systems at the Centro de Control Satelital (CSS) and Centro de Comunicaciones y Operaciones (COCC). Tasks included:
 
 * Data supervision and hub configuration
 * Satellite orbital control (CCAS & OCAS)
@@ -69,7 +70,7 @@ Monitored telemetry and managed satellite control systems at the **Centro de Con
 
 **Radio Access Network Planning Engineer**
 Nuevatel PCS, Cochabamba, Bolivia.
-Planned and simulated wireless radio access networks for 2G, 3G, 4G, and WiMax technologies. Used tools: **ASSET-Aircom Enterprise**, **MapInfo**, and **Global Mapper**. Managed national network KPIs for vendors ZTE, Nokia, and Huawei.
+Planned and simulated wireless radio access networks for 2G, 3G, 4G, and WiMax technologies. Used tools: ASSET-Aircom Enterprise, MapInfo, and Global Mapper. Managed national network KPIs for vendors ZTE, Nokia, and Huawei.
 
 ### 2015-02 – 2015-08
 
@@ -79,7 +80,7 @@ Analyzed network coverage, QoS, QoE, and capacity for national infrastructure su
 
 ### 2011-04 – 2017-05
 
-**Consulting Teacher**
+**Consulting STEAM Teacher**
 Héroes del Boquerón School, Bolivia.
 Taught physics, mathematics, and astronomy to high school students.
 
@@ -106,7 +107,7 @@ Astronomical Database report for: **AAVSO, COBS, TNS**
 
 ---
 
-I have raised a total of **€11,373** in support of scientific research, education, and astronomy outreach projects. All these initiatives were executed voluntarily and at no cost for participants, aiming to benefit students, educators, and the astronomy community. Support has come from grants, technical proposals and volunteering in organizations such as the **International Astronomical Union (IAU)**, local foundations and university laboratories.
+I have raised a total of **€11,373** in support of scientific research, education, and astronomy outreach projects. All these initiatives were executed voluntarily and at no cost for participants, aiming to benefit students, educators, and the astronomy community. Support has come from grants, technical proposals and volunteering in organizations such as the International Astronomical Union (IAU), local foundations and university laboratories.
 
 ### 2024-07 – Present
 
@@ -135,7 +136,7 @@ Website: [https://sites.google.com/view/astro3dbol](https://sites.google.com/vie
 ### 2021-10
 
 **Instrumentation Coordinator – Bolivian San Agustín Remote Observatory**
-An initiative by **Fundación Educacional San Agustín (FESA)** supported by **Europlanet Public Engagement Funding Scheme**. The observatory seeks to foster sustainable collaboration, inclusive education, and innovative research. It currently supports high school astronomy education and outreach in Cochabamba.
+An initiative by **Fundación Educacional San Agustín (FESA)** supported by Europlanet Public Engagement Funding Scheme. The observatory seeks to foster sustainable collaboration, inclusive education, and innovative research. It currently supports high school astronomy education and outreach in Cochabamba.
 Article: [Europlanet Magazine, Issue 2](https://www.europlanet.org/europlanet-magazine/issue2/the-bolivian-san-agustin-remote-observatory/)
 
 * **Rise:** Approved proposal raised **€3715** in funding.
@@ -145,7 +146,7 @@ Article: [Europlanet Magazine, Issue 2](https://www.europlanet.org/europlanet-ma
 **Leader – Bolivian Delegation to the IOAA**
 **International Olympiad on Astronomy and Astrophysics (IOAA)**, coordinated with OLAA & OCEPB.
 
-* **Rise:** Secured **local academic and institutional support** for implementation via Fundación FESA.
+* **Rise:** Secured local academic and institutional support for implementation via Fundación FESA.
 
 ### 2019-08
 
