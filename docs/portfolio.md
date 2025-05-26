@@ -94,7 +94,7 @@ Hands-on observational training and research experience using professional-grade
 
 Astronomical Database report for: **AAVSO, COBS, TNS**
 
-**[Astrobin - Astrophotography](https://app.astrobin.com/u/gjaimes#gallery)**
+**Astrophotography: [Astrobin ](https://app.astrobin.com/u/gjaimes#gallery)**
 
 ---
 
