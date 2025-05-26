@@ -6,6 +6,14 @@
 
 ![NGC6523_prfile](content/im/GJaimes_Profile_2.jpg)
 
+**GABRIEL ANDRES JAIMES ILLANES**
+*email:* gjaimes@cab.inta-csic.es
+Momentum Program Researcher
+
+*Astrophysics Department, Center for Astrobiology (CAB),
+Spanish Higher Science Research Council (CSIC),
+28850, Torrejón de Ardoz (Madrid, Spain)*
+
 ---
 
 ## PROFESSIONAL EXPERIENCE
@@ -16,7 +24,7 @@
 
 **Momentum Researcher**  
 
-The TFC contract is supported by the **Momentum Program**, an initiative by the Spanish Higher Science Research Council (CSIC) aimed at fostering scientific leadership among outstanding researchers. The program provides funding and institutional support to help researchers establish independent and innovative lines of investigation within CSIC centers aligned with Artificial Intelligence (AI) and Machine Learning (ML) techniques.
+The TFC contract is supported by the **Momentum Program**, an initiative by the Spanish Higher Science Research Council (CSIC) aimed at fostering scientific research on Artificial Intelligence (AI) and Machine Learning (ML) techniques.
 
 [Centro de Astrobiología (CAB)](https://cab.inta-csic.es/) - [Spanish National Research Council (CSIC)](https://www.csic.es/) - [National Institute for Aerospace Technology (INTA)](https://www.inta.es/), Madrid, Spain.
 
@@ -36,7 +44,7 @@ Development of an ML-based framework for classification of **HI spectral profile
 
 ### 2021-03 – 2022-09
 
-**Lecturer & Associate Researcher**
+**Lecturer & Associate Researcher.**
 Universidad Privada Boliviana (UPB) – Radiocommunications Laboratory, Bolivia.
 Delivered undergraduate courses in:
 
@@ -68,19 +76,19 @@ Monitored telemetry and managed satellite control systems at the Centro de Contr
 
 ### 2017-05 – 2017-10
 
-**Radio Access Network Planning Engineer**
+**Radio Access Network Planning Engineer.**
 Nuevatel PCS, Cochabamba, Bolivia.
 Planned and simulated wireless radio access networks for 2G, 3G, 4G, and WiMax technologies. Used tools: ASSET-Aircom Enterprise, MapInfo, and Global Mapper. Managed national network KPIs for vendors ZTE, Nokia, and Huawei.
 
 ### 2015-02 – 2015-08
 
-**Network Quality Assurance Engineering Intern**
+**Network Quality Assurance Engineering Intern.**
 Telecel TIGO, Cochabamba, Bolivia.
 Analyzed network coverage, QoS, QoE, and capacity for national infrastructure supporting 2G, 3G, and 4G networks.
 
 ### 2011-04 – 2017-05
 
-**Consulting STEAM Teacher**
+**Consulting STEAM Teacher.**
 Héroes del Boquerón School, Bolivia.
 Taught physics, mathematics, and astronomy to high school students.
 
@@ -109,6 +117,12 @@ Astronomical Database report for: **AAVSO, COBS, TNS**
 
 I have raised a total of **€11,373** in support of scientific research, education, and astronomy outreach projects. All these initiatives were executed voluntarily and at no cost for participants, aiming to benefit students, educators, and the astronomy community. Support has come from grants, technical proposals and volunteering in organizations such as the International Astronomical Union (IAU), local foundations and university laboratories.
 
+### 2019-06 – Present
+
+**NAEC Bolivia – National Astronomy Education Coordinator (NAEC).**
+**Office for Astronomy Education (OAE) - International Astronomical Union (IAU)**
+Coordinates astronomy education programs and outreach efforts throughout Bolivia.
+
 ### 2024-07 – Present
 
 **Principal Investigator (PI) – Bolivian Virtual Observatory (BVO)**
@@ -117,12 +131,6 @@ Leads supernova (SNII) monitoring campaigns and astrophotography educational out
 Website: [https://bolivianvirtualobservatory.readthedocs.io/en/latest/](https://bolivianvirtualobservatory.readthedocs.io/en/latest/)
 
 * **Rise:** 15 hours of robotic telescope time, valued at **$3750 USD**.
-
-### 2019-06 – Present
-
-**NAEC Bolivia – National Astronomy Education Coordinator**
-**International Astronomical Union (IAU), OAE/FESA**
-Coordinates astronomy education programs and outreach efforts throughout Bolivia.
 
 ### 2021-06
 
