@@ -4,7 +4,7 @@
 
 ---
 
-![NGC6523_GJaimes](content/im/GJaimes_Profile.jpg)
+<img src="content/im/GJaimes_Profile.jpg" alt="NGC6523_GJaimes" style="height:200px;">
 
 ---
 
