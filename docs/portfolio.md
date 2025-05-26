@@ -223,7 +223,7 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
   *Published in Opinión newspaper on August 17, 2022.*
   
 * **The Art of Looking Beyond the Lights**  
-* [https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces](https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces)
+* [https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces](https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces).
   *Published in Los Tiempos newspaper on February 19, 2024.*
 
 * **Coordination of the “San Agustín” Astronomy Club**  
