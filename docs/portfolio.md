@@ -241,113 +241,84 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
   *Monthly Notices of the Royal Astronomical Society*, 533(2), 2113–2132  
   2024
 
-* **Planning and simulation for radio access networks on “Small Cells” technology for heterogeneous environments**  
-  G Jaimes-Illanes  
-  *Revista Investigación & Desarrollo*, 21(1)  
-  2021
-
 * **Recurrent nova M31N 2008-12a: ATLAS pre-discovery detection and forced photometry of the 2023 eruption**  
-  I Perez-Fournon, F Poidevin, E Reyes-Rodriguez, H Akoudad-Ekajouan, ...  
   *The Astronomer's Telegram*, 16370, 1  
   2023
 
 * **SN 2023wrk (GOTO23bdo, ZTF23abpbdfm, ULL-ASTRO-MASTER-7): a SN Ia in NGC 3690, the most prolific SN factory**  
-  C Arrizabalaga-Díaz-Caneja, P Eguiguren-Arrizabalaga, S Lamolda-Mir, ...  
   *Transient Name Server AstroNote*, 296, 1  
   2023
 
-* **Classification of HI Galaxy Profiles Using Unsupervised Learning and Convolutional Neural Networks: A Comparative Analysis and Methodological Cases of Studies**  
-  G Jaimes-Illanes, M Parra-Royon, L Darriba-Pol, J Moldón, A Sorgho, ...  
-  *arXiv preprint* arXiv:2501.11657  
-  2025
-
 * **Kilonova Seekers: the GOTO project for real-time citizen science in time-domain astrophysics**  
-  TL Killestein, L Kelsey, E Wickens, L Nuttall, J Lyman, C Krawczyk, ...  
   *arXiv preprint* arXiv:2406.02334  
   2024
 
 * **AT 2023zcu (ATLAS23wvm, ZTF23absdcgi): a fast and bright supernova candidate in the galaxy NGC 2139**  
-  I Pérez-Fournon, F Poidevin, H Akoudad-Ekajouan, C Araujo-Álvarez, ...  
   *Transient Name Server AstroNote*, 332, 1  
   2023
 
 * **LCOGT independent discovery of the bright M31 nova candidate AT 2023yqt (PSP23Q, ULL-ASTRO-MASTER-9, M31N 2023-12a)**  
-  F Barnes-Sanchez, H Akoudad-Ekajouan, C Araujo-Alvarez, ...  
   *The Astronomer's Telegram*, 16363, 1  
   2023
 
 * **GRB 231210B: detection of the optical counterpart with the LCOGT 40cm telescope at Sutherland Observatory**  
-  I Pérez-Fournon, F Poidevin, H Akoudad-Ekajouan, C Araujo-Álvarez, ...  
   *GRB Coordinates Network*, 35316, 1  
   2023
 
 * **ULL-ASTRO-MASTER Transient Discovery Report for 2023-11-06**  
-  C Araujo-Álvarez, H Akoudad-Ekajouan, C Arrizabalaga-Díaz-Caneja, ...  
+
   *Transient Name Server Discovery Report*, 2023, 1  
   2023
 
 * **LCOGT observations of the 2023 eruption of the M31 recurrent Nova M31N 2013-10c (PSP23N, AT 2023yoa, M31N 2023-11f, ULL-ASTRO-MASTER-8)**  
-  P Jimenez-Sanchez, H Akoudad-Ekajouan, C Araujo-Alvarez, ...  
   *The Astronomer's Telegram*, 16355, 1  
   2023
 
 * **SGLF Transient Discovery Report for 2023-10-21**  
-  I Perez-Fournon, F Poidevin, H Akoudad-Ekajouan, C Araujo-Álvarez, ...  
   *Transient Name Server Discovery Report*, 2023, 1  
   2023
 
 * **AT 2023txu (ATLAS23tma, Gaia23ctg), a candidate SN in NGC 6676: follow-up with the IAC80 telescope**  
-  I Ruiz-Cejudo, H Akoudad-Ekajouan, C Araujo-Álvarez, ...  
   *Transient Name Server AstroNote*, 264, 1  
   2023
 
 * **GRB 231024A: LCOGT and ZTF detections of the GOTO optical counterpart candidate**  
-  A Iglesias-López, H Akoudad-Ekajouan, C Araujo-Álvarez, ...  
   *GRB Coordinates Network*, 34881, 1  
   2023
 
 * **ULL-ASTRO-MASTER Transient Discovery Report for 2023-10-28**  
-  PP Meni-Gallardo, H Akoudad-Ekajouan, C Araujo-Álvarez, ...  
   *Transient Name Server Discovery Report*, 2023, 1  
   2023
 
 * **ULL-ASTRO-MASTER Transient Discovery Report for 2023-10-15**  
-  V Wienzek, H Akoudad-Ekajouan, C Araujo-Álvarez, ...  
   *Transient Name Server Discovery Report*, 2023, 1  
   2023
 
 * **ULL-ASTRO-MASTER Transient Discovery Report for 2023-10-19**  
-  M Sánchez-Andújar, H Akoudad-Ekajouan, C Araujo-Álvarez, ...  
   *Transient Name Server Discovery Report*, 2023, 1  
   2023
 
 * **ULL-ASTRO-MASTER Transient Discovery Report for 2023-10-14**  
-  C Arrizabalaga-Díaz-Caneja, H Akoudad-Ekajouan, C Araujo-Álvarez, ...  
   *Transient Name Server Discovery Report*, 2023, 1  
   2023
 
 * **Independent discovery of the bright M31 nova AT 2023uiq (ULL-ASTRO-MASTER-1) with the Las Cumbres Observatory DeltaRho 350 telescope at McDonald Observatory**  
-  A Mang-Roman, H Akoudad-Ekajouan, C Araujo-Alvarez, ...  
   *The Astronomer's Telegram*, 16286, 1  
   2023
 
 * **LCOGT photometric follow-up of the highly reddened Galactic nova AT 2023tow (Gaia23coj, ZTF23abceaws)**  
-  H Akoudad-Ekajouan, C Araujo-Alvarez, C Arrizabalaga-Diaz-Caneja, ...  
   *The Astronomer's Telegram*, 16259, 1  
   2023
 
 * **Independent discovery of a bright nova candidate in M31 with the Las Cumbres Observatory**  
-  G Marrero-Ramallo, H Akoudad-Ekajouan, C Araujo-Alvarez, ...  
   *The Astronomer's Telegram*, 16263, 1  
   2023
 
 * **Pre-rise activity in the type IIn SN 2023qdi (PS23guw, ATLAS23sbe, ZTF23aayngri)**  
-  GA Jaimes-Illanes, H Akoudad-Ekajouan, C Araujo-Álvarez, ...  
   *Transient Name Server AstroNote*, 257, 1  
   2023
 
 * **AT 2023rto, supernova candidate in NGC 2838: LCOGT photometric follow up**  
-  SL Mir, HA Ekajouan, CA Álvarez, CA Díaz-Caneja, FB Sánchez, ...  
   *Transient Name Server AstroNote*, 254, 1  
   2023
 
@@ -360,6 +331,14 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 ## DISSERTATIONS
 
 ---
+
+* **DSO Astrophotography**
+  *Published in Opinión newspaper on August 17, 2022.*
+  [https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes](https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes/astrofotografia-dso/20220816224512877127.html)  
+  
+* **The Art of Looking Beyond the Lights**
+  *Published in Los Tiempos newspaper on February 19, 2024.*
+  [https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces](https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces).
 
 * **Astronomy Education as the 'Academic Ether' – Bolivia Case Study**  
   2nd Shaw–IAU Workshop on Astronomy for Education, 2020.
@@ -378,14 +357,6 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 
 * **Astrophysics in Action for Science, Education and Projects**  
   Horizons 2024: SG Bolivia Online Workshop, Bolivia.
-
-* **DSO Astrophotography**
-  *Published in Opinión newspaper on August 17, 2022.*
-  [https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes](https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes/astrofotografia-dso/20220816224512877127.html)  
-  
-* **The Art of Looking Beyond the Lights**
-  *Published in Los Tiempos newspaper on February 19, 2024.*
-  [https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces](https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces).
 
 * **Coordination of the “San Agustín” Astronomy Club**  
   Fundación Educacional FESA.
