@@ -6,7 +6,7 @@
 
 <h2 style="display: flex; justify-content: space-between; align-items: center;">
   PROFESSIONAL EXPERIENCE
-  <img src="content/im/GJaimes_Profile.jpg" alt="Imagen" style="height: 400px;">
+  <img src="content/im/GJaimes_Profile.jpg" alt="Imagen" style="height: 200px;">
 </h2>
 
 ---
