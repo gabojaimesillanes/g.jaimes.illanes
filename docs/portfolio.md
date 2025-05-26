@@ -332,11 +332,11 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 
 ---
 
-* **DSO Astrophotography**
+* **DSO Astrophotography.**
   *Published in Opinión newspaper on August 17, 2022.*
   [https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes](https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes/astrofotografia-dso/20220816224512877127.html)  
   
-* **The Art of Looking Beyond the Lights**
+* **The Art of Looking Beyond the Lights.**
   *Published in Los Tiempos newspaper on February 19, 2024.*
   [https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces](https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces).
 
