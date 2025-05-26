@@ -333,7 +333,6 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
   2023
 
 * **SN 2023rve: follow-up photometry with LCOGT DeltaRho 350+ QHY600**  
-  PE Arrizabalaga, HA Ekajouan, CA Álvarez, CA Díaz-Caneja, ...  
   *Transient Name Server AstroNote*, 246, 1  
   2023
 ---
