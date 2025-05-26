@@ -25,7 +25,7 @@ The TFC contract is supported by the **Momentum Program**, an initiative by the 
 Currently working on the project **Artificial Intelligence Integral Tool for AstroChemical Analysis (AI-ITACA)**. This initiative integrates various Machine Learning (ML) techniques to address key challenges in modern astrochemistry. The aim is to develop a comprehensive AI-based analytical platform that can revolutionize our understanding of chemical complexity in the interstellar medium (ISM) and its connection to the origins of life. The tool leverages extensive archives from the **Atacama Large Millimeter/submillimeter Array (ALMA)** and the **James Webb Space Telescope (JWST)**, employing deep learning to identify molecular features and predict unknown chemical pathways in astronomical observations.
 
 * Google Scholar: [https://scholar.google.es/citations?user=P9q9W8gAAAAJ\&hl=es\&oi=ao](https://scholar.google.es/citations?user=P9q9W8gAAAAJ&hl=es&oi=ao)
-* Website (ReadTheDocs): [https://astrodev-g.readthedocs.io/en/latest/](https://astrodev-g.readthedocs.io/en/latest/)
+* Website (ReadTheDocs): [https://gjaimesillanes.readthedocs.io](https://gjaimesillanes.readthedocs.io/en/latest)
 * GitHub repository: [https://github.com/gabojaimesillanes](https://github.com/gabojaimesillanes)
 
 ### 2024-05 – 2024-09
