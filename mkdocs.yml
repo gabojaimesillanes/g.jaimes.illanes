@@ -2,8 +2,8 @@ site_name: G.Jaimes
 
 nav:
   - A. PORTFOLIO: 'portfolio.md'
-  - Projects:
-      - B. HI Classification - CNN and Machine Learning:
+  - B. Projects:
+      - i. HI Classification - CNN and Machine Learning:
           - 1. Data Preprocessing: '1.HI_class.md'
           - 2. Profile Fitting using Busyfit: '2.HI_class.md'
           - 3. HI Profiles Classification using Shapelets and CNN: '3.HI_class.md'
