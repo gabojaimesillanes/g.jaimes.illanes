@@ -4,7 +4,10 @@
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+<h2 style="display: flex; justify-content: space-between; align-items: center;">
+  PROFESSIONAL EXPERIENCE
+  <img src="content/im/GJaimes_Profile.jpg" alt="Imagen" style="height: 40px;">
+</h2>
 
 ---
 
