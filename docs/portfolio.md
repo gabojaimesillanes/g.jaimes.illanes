@@ -170,10 +170,9 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 
 * **Classification of HI Galaxy Profiles Using Unsupervised Learning and Convolutional Neural Networks: A Comparative Analysis and Methodological Cases of Studies**  
   *Jaimes, G.*  
-  14th Astronomical Data Analysis Software and Systems (ADASS), 1 Jan 2025.  
-  [ADS Link](https://ui.adsabs.harvard.edu/abs/2025arXiv250111657J/abstract)  
-
+  14th Astronomical Data Analysis Software and Systems (ADASS), 1 Jan 2025.
   Hydrogen, the most abundant element in the universe, is crucial for understanding galaxy formation and evolution. The 21 cm neutral atomic hydrogen (HI) spectral line maps the gas kinematics within galaxies, providing key insights into interactions, galactic structure, and star formation processes. With new radio instruments, the volume and complexity of data is increasing. To analyze and classify integrated HI spectral profiles efficiently, this work presents a framework that integrates Machine Learning (ML) techniques, combining unsupervised methods and Convolutional Neural Networks (CNN). The framework was applied to a subsample of 318 spectral HI profiles from the Catalogue of Isolated Galaxies (CIG) and 30,780 profiles from the ALFALFA survey. Pre-processing used the Busyfit package and polynomial, Gaussian, and double-Lorentzian models. Clustering techniques such as K-means, spectral clustering, DBSCAN, and agglomerative clustering enabled feature extraction. Classification was bootstrapped using K-Nearest Neighbors, Support Vector Machines, and Random Forest, and later optimized using CNN. Additionally, 2D representations of the profiles based on rotation, subtraction, and normalization helped quantify asymmetry and improve classification. This methodology can support future surveys like the Square Kilometre Array (SKA).
+  ADS Link: [https://ui.adsabs.harvard.edu/abs/2025arXiv250111657J/abstract](https://ui.adsabs.harvard.edu/abs/2025arXiv250111657J/abstract)  
 
 * **Book: Astronomy and Astrophysics for Scientific Olympiads**  
   *Jaimes, G.*  
@@ -221,12 +220,10 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 
 * **DSO Astrophotography**
 * [https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes](https://www.opinion.com.bo/opinion/gabriel-andres-jaimes-illanes/astrofotografia-dso/20220816224512877127.html)  
-
   *Published in Opinión newspaper on August 17, 2022.*
   
 * **The Art of Looking Beyond the Lights**  
 * [https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces](https://www.lostiempos.com/oh/actualidad/20240219/arte-mirar-mas-alla-luces)
-
   *Published in Los Tiempos newspaper on February 19, 2024.*
 
 * **Coordination of the “San Agustín” Astronomy Club**  
