@@ -11,11 +11,11 @@ nav:
           - 5. 2D Image Modelling and CNN-Classification: '5.HI_class.md'
           - 6. Results and Graphics: '6.HI_class.md'
       - II. Bolivian Virtual Observatory (BVO):
-         - About the Project: '2.AboutTheProject.md'
-         - 2024 Call: '3.2024Call.md'
-         - Science: '5.Science.md'
-         - Astrophotography: '6.Astrophotography.md'
-         - Academic Content: '7.AcademicContent.md'
-         - Contact: '8.Contact.md'
+         - 1. About the Project: '2.AboutTheProject.md'
+         - 2. 2024 Call: '3.2024Call.md'
+         - 3. Science: '5.Science.md'
+         - 4. Astrophotography: '6.Astrophotography.md'
+         - 5. Academic Content: '7.AcademicContent.md'
+         - 6. Contact: '8.Contact.md'
 
 theme: readthedocs
