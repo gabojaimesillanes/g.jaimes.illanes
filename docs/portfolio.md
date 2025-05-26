@@ -4,7 +4,7 @@
 
 ---
 
-<img src="content/im/GJaimes_Profile.jpg" alt="NGC6523_GJaimes" style="height: 80px; float: right; margin-left: 15px;">
+<img src="content/im/GJaimes_Profile.jpg" alt="NGC6523_GJaimes" style="height: 80px; float: center; margin-left: 200px;">
 
 ## PROFESSIONAL EXPERIENCE
 
