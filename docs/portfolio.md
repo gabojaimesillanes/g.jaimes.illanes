@@ -1,6 +1,6 @@
 ![NGC6523_GJaimes](content/im/NGC6523_BVO_GJAIMES_FULL_b.jpg)
 
-# PORTFOLIO and CURRICULUM VITAE
+# I. PORTFOLIO and CURRICULUM VITAE
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## II. PROFESSIONAL EXPERIENCE
 
 ---
 
@@ -94,7 +94,7 @@ Taught physics, mathematics, and astronomy to high school students.
 
 ---
 
-## ASTROPHYSICAL OBSERVATION EXPERIENCE
+## III. ASTROPHYSICAL OBSERVATION EXPERIENCE
 
 ---
 
@@ -111,7 +111,7 @@ Astronomical Database report for: **AAVSO, COBS, TNS**
 
 ---
 
-## PROJECTS IMPLEMENTED AND RISE OF FUNDING
+## IV. PROJECTS IMPLEMENTED AND RISE OF FUNDING
 
 ---
 
@@ -166,7 +166,7 @@ Website: [https://open-astronomy-schools.org/2019/08/astroedu-brings-astronomy-t
 
 ---
 
-## UNIVERSITY DEGREES
+## V. UNIVERSITY DEGREES
 
 ---
 
@@ -194,7 +194,7 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 
 ---
 
-## ACADEMIC AND PROFESSIONAL COURSES
+## VI. ACADEMIC AND PROFESSIONAL COURSES
 
 ---
 
@@ -207,7 +207,7 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 
 ---
 
-## SCIENTIFIC PRODUCTION
+## VII. SCIENTIFIC PRODUCTION
 
 ---
 
@@ -337,7 +337,7 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
   2023
 ---
 
-## DISSERTATIONS
+## VIII. DISSERTATIONS
 
 ---
 
@@ -381,7 +381,7 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
 
 ---
 
-## SCHOLARSHIPS AND AWARDS
+## IX. SCHOLARSHIPS AND AWARDS
 
 ---
 
