@@ -124,6 +124,7 @@ I have raised a total of **€11,373** in support of scientific research, and as
 **NAEC Bolivia – National Astronomy Education Coordinator (NAEC).**
 **Office for Astronomy Education (OAE) - International Astronomical Union (IAU)**
 Coordinates astronomy education programs and outreach efforts throughout Bolivia.
+
 NAEC Bolivia - OAE - IAU: [https://astro4edu.org/naec-network/BO/](https://astro4edu.org/naec-network/BO/)
 
 ### 2024-07 – Present
@@ -131,6 +132,7 @@ NAEC Bolivia - OAE - IAU: [https://astro4edu.org/naec-network/BO/](https://astro
 **Principal Investigator (PI) – Bolivian Virtual Observatory (BVO)**
 **Las Cumbres Observatory (LCO)** – Global Sky Partner
 Leads supernova (SNII) monitoring campaigns and astrophotography educational outreach initiatives.
+
 Website: [https://bolivianvirtualobservatory.readthedocs.io/en/latest/](https://bolivianvirtualobservatory.readthedocs.io/en/latest/)
 
 * **Rise:** 15 hours of robotic telescope time, valued at **$3750 USD**.
