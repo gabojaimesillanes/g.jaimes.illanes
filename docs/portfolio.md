@@ -142,6 +142,7 @@ Website: [https://bolivianvirtualobservatory.readthedocs.io/en/latest/](https://
 **Leader – Astro3DBol Project**
 **Office of Astronomy for Development (OAD), IAU**
 Designed and deployed 3D printed educational kits connecting Tiwanaku cultural heritage with modern astronomy.
+
 Website: [https://sites.google.com/view/astro3dbol](https://sites.google.com/view/astro3dbol)
 
 * **Rise:** Approved proposal raised **€3360** in funding. Additional institutional support equivalent to **€500**.
@@ -150,6 +151,7 @@ Website: [https://sites.google.com/view/astro3dbol](https://sites.google.com/vie
 
 **Instrumentation Coordinator – Bolivian San Agustín Remote Observatory**
 An initiative by **Fundación Educacional San Agustín (FESA)** supported by Europlanet Public Engagement Funding Scheme. The observatory seeks to foster sustainable collaboration, inclusive education, and innovative research. It currently supports high school astronomy education and outreach in Cochabamba.
+
 Article: [Europlanet Magazine, Issue 2](https://www.europlanet.org/europlanet-magazine/issue2/the-bolivian-san-agustin-remote-observatory/)
 
 * **Rise:** Approved proposal raised **€3715** in funding.
@@ -158,6 +160,7 @@ Article: [Europlanet Magazine, Issue 2](https://www.europlanet.org/europlanet-ma
 
 **Leader – Bolivian Delegation to the IOAA**
 **International Olympiad on Astronomy and Astrophysics (IOAA)**, coordinated with OLAA & OCEPB.
+
 Note: [https://eldeber.com.bo](https://eldeber.com.bo/gente/bolivia-obtiene-dos-medallas-de-bronce-en-olimpiada-de-astrofisica-y-astronomia_255858/)
 
 * **Rise:** Secured local academic and institutional support for implementation via Fundación FESA.
@@ -166,6 +169,7 @@ Note: [https://eldeber.com.bo](https://eldeber.com.bo/gente/bolivia-obtiene-dos-
 
 **Open Astronomy Schools – AstroEdu Cochabamba**
 Organized teacher training in astronomy as part of the global Open Astronomy Schools program.
+
 Website: [https://open-astronomy-schools.org/2019/08/astroedu-brings-astronomy-to-bolivian-teachers/](https://open-astronomy-schools.org/2019/08/astroedu-brings-astronomy-to-bolivian-teachers/)
 
 * **Rise:** Approved proposal raised **€500** in funding.
