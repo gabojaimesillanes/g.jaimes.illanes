@@ -124,6 +124,7 @@ I have raised a total of **€11,373** in support of scientific research, and as
 **NAEC Bolivia – National Astronomy Education Coordinator (NAEC).**
 **Office for Astronomy Education (OAE) - International Astronomical Union (IAU)**
 Coordinates astronomy education programs and outreach efforts throughout Bolivia.
+NAEC Bolivia - OAE - IAU: [https://astro4edu.org/naec-network/BO/](https://astro4edu.org/naec-network/BO/)
 
 ### 2024-07 – Present
 
@@ -155,6 +156,7 @@ Article: [Europlanet Magazine, Issue 2](https://www.europlanet.org/europlanet-ma
 
 **Leader – Bolivian Delegation to the IOAA**
 **International Olympiad on Astronomy and Astrophysics (IOAA)**, coordinated with OLAA & OCEPB.
+Note: [https://eldeber.com.bo](https://eldeber.com.bo/gente/bolivia-obtiene-dos-medallas-de-bronce-en-olimpiada-de-astrofisica-y-astronomia_255858/)
 
 * **Rise:** Secured local academic and institutional support for implementation via Fundación FESA.
 
