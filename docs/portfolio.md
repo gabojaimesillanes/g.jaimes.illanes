@@ -389,8 +389,7 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
   June 16–20, 2025  
   Received funding for fee waiver to attend the second EDUCADO Training School, hosted by the Instituto de Astrofísica de Canarias (IAC) at the University of La Laguna, Tenerife. The program features advanced training in computer science concepts applied to astrophysics, including machine learning, morphological filtering, probabilistic modeling, coding practices, and soft skills. Includes lectures, hands-on projects, interactive sessions, and a visit to the Teide Observatory.
 
-* **2024-05**
-  JAE Intro ICU Scholarship – Instituto de Astrofísica de Andalucía (IAA) & Spanish Higher Science Research Council (CSIC), Granada, Spain
+* **2024-05 - JAE Intro ICU Scholarship – Instituto de Astrofísica de Andalucía (IAA) & Spanish Higher Science Research Council (CSIC)**, Granada, Spain
 Awarded a JAE Intro research studentship by the Spanish Higher Science Research Council (CSIC). The project was developed with AMIGA Research Group at the Extragalactic Physics Department. Focused on developing a machine learning-based framework for the classification of HI spectral profiles, combining unsupervised clustering and Convolutional Neural Networks (CNNs). The pipeline was designed for scalability and applicability to large-scale radio astronomy surveys such as those from the Square Kilometre Array Observatory (SKAO) and its precursors.
 
 * **2022-11 – Global Rising Star Award – Space Generation Advisory Council (SGAC)**  
