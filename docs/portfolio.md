@@ -389,10 +389,14 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
   June 16–20, 2025  
   Received funding for fee waiver to attend the second EDUCADO Training School, hosted by the Instituto de Astrofísica de Canarias (IAC) at the University of La Laguna, Tenerife. The program features advanced training in computer science concepts applied to astrophysics, including machine learning, morphological filtering, probabilistic modeling, coding practices, and soft skills. Includes lectures, hands-on projects, interactive sessions, and a visit to the Teide Observatory.
 
+* **2024-05**
+  JAE Intro ICU Scholarship – Instituto de Astrofísica de Andalucía (IAA) & Spanish Higher Science Research Council (CSIC), Granada, Spain
+Awarded a JAE Intro research studentship by the Spanish Higher Science Research Council (CSIC). The project was developed with AMIGA Research Group at the Extragalactic Physics Department. Focused on developing a machine learning-based framework for the classification of HI spectral profiles, combining unsupervised clustering and Convolutional Neural Networks (CNNs). The pipeline was designed for scalability and applicability to large-scale radio astronomy surveys such as those from the Square Kilometre Array Observatory (SKAO) and its precursors.
+
 * **2022-11 – Global Rising Star Award – Space Generation Advisory Council (SGAC)**  
   Recognized internationally with the *Global Rising Star Award* by SGAC (USA) for outstanding engagement and leadership in space-related activities. The award included sponsorship to attend the 20th Space Generation Congress and the 73rd International Astronautical Congress in Paris, France.
 
-* **2022-09 – Fundación Carolina Scholarship**  
+* **2022-09 – Fundación Carolina Scholarship (FUNDACIÓN RAMÓN ARECES), Universidad de La Laguna (ULL) and Instituto de Astrofísicas de Canarias (IAC)**  
   Awarded a fully funded academic scholarship by Fundación Carolina to pursue the *MSc. in Astrophysics* at the Universidad de La Laguna (ULL), Spain. The program is jointly supported by the Instituto de Astrofísica de Canarias (IAC), one of Europe’s leading astrophysics research centers.
 
 * **2022-05 – South American Space Leaders Award – SGAC**  
@@ -408,4 +412,4 @@ Thesis: Small Cells deployment strategy for Cochabamba’s dense urban areas.
   Awarded for cultural activities and contributions to university life and celebrations at UCB.
 
 * **2017 - 04 - Jaime Escalante Decoration – Government of Cochabamba, Bolivia**  
-  Honored with the *Jaime Escalante Decoration* for contributions to STEAM education in support of the Plurinational Student Scientific Olympiad (Olimpiada Científica Estudiantil Plurinacional).
+  Honored with the *Jaime Escalante Decoration* for contributions to STEAM education in support of the Plurinational Student Scientific Olympiad (Olimpiada Científica Estudiantil Plurinacional). Different versions of the event where developed around the country forming students to participate in the Latin American Astronomy and Astronautics Olympiad (OLAA) and the International Olympiad on Astronomy and Astrophysics (IOAA).
